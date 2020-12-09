@@ -1,4 +1,4 @@
-﻿gameCode,timeStamp,trackingId,objectType,uniformNumber,playerId,teamId,x,y,z,monthId,statData,period,timeElapsed,speed,changeInSpeed
+﻿fixtureid,timestamp,trackingid,objecttype,uniformnumber,playerid,teamid,x,y,z,monthid,statdata,period,timeelapsed,speed,changeinspeed
 2179369,1.58E+12,1,1,4,472848,9864,43.09,33.009,0,12,N,1,0,,
 2179369,1.58E+12,1,1,4,472848,9864,43.093,33.009,0,12,N,1,0.1,,
 2179369,1.58E+12,1,1,4,472848,9864,43.109,33.012,0,12,N,1,0.2,,
